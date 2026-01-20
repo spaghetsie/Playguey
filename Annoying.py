@@ -30,7 +30,7 @@ class Dialogue:
 Dialogue.print("Hi! Just another day in paradise, huh...")
 Dialogue.print("Let's get this over with, alright?")
 
-files = os.listdir("ge_cz_wordlist")
+files = os.listdir("wordlist")
 
 for i, file in enumerate(files):
     print(f"[{i}] {file}")
@@ -60,7 +60,7 @@ Dialogue.print("G o o d  l u c k")
 time.sleep(0.2)
 os.system("cls")
 wordpool = []
-with open(f"ge_cz_wordlist/{files[index]}", "r", encoding="utf-8") as f:
+with open(f"wordlist/{files[index]}", "r", encoding="utf-8") as f:
     wordpool = [word.split('; ')[::-1] for word in f.read().split('\n')]
 
 
