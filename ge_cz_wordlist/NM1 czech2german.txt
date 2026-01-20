@@ -1,0 +1,390 @@
+odpadní voda; das Abwasser
+obecný; allgemein
+narazit; anstoßen
+dokončit; abschließen
+zakončení; der Abschluss
+závěrečný; Abschluss
+úmysl; die Absicht
+úsek; der Abschnitt
+zařízení; die Anlage
+nabídnout; anbieten
+navázat; anschließen
+použít; anwenden
+aplikace; die Anwendung
+aplikovaný; angewandt
+stavět; aufbauen
+zrušit; aufheben
+přijímací zkoušky; Aufnahmeprüfungen
+vzdělávat; ausbilden
+vzdělání; die Ausbildung
+zaměřený; ausgerichtet
+využití; die Ausnützung
+stavebnictví; das Bauwesen
+zabývat se; sich beschäftigen
+pomáhat; beistehen
+urychlovač; der Beschleuniger
+mít; besitzen
+být; bestehen
+skládat se; bestehen aus
+stávající; bestehend
+součást; der Bestandteil
+hodnotit; bewerten
+hodnocení; die Bewertung
+název; die Bezeichnung
+poskytovat; bieten
+provést; durchführen
+zavést; einführen
+zavedení; die Einführung
+úzký; eng
+jedinečný; einzigartig
+odpovídající; entsprechend
+vzniknout; entstehen
+vznik; die Entstehung
+úspěšný; erfolgreich
+získání; die Erlangung
+doplnit; ergänzen
+umožnit; ermöglichen
+získat; erwerben
+předmět; das Fach
+odborný; Fach
+oblast; das Fachgebiet
+obor; die Fachrichtung
+zkoumat; forschen
+výzkum; die Forschung
+výzkumník; der Forscher
+mírový; friedlich
+poplatek; die Gebühr
+vybírat poplatky; Gebühren erheben
+současný; gegenwärtig
+stupňovaný; gestuft
+strukturované studium; gestufte Studienstruktur
+obvyklý; gewöhnlich
+rovnice; die Gleichung
+založit; gründen
+založení; die Gründung
+základ; der Grund
+základní; Grund
+základ; die Grundlage
+základní; grundlegend
+vysoce výkonný; hochleistungsfähig
+císař; der Kaiser
+znalost; die Kenntnis
+získávat znalosti; Kenntnisse erwerben
+jádro; der Kern
+nauka; die Lehre
+učit; lehren
+učit se; lernen
+vést; leiten
+vedení; die Leitung
+výkon; die Leistung
+strojírenství; der Maschinenbau
+novota; die Neuerung
+řádný; ordentlich
+složit zkoušku; Prüfung ablegen
+rada; der Rat
+seznámit se; sich vertraut machen
+zápočet; der Schein
+těžiště; der Schwerpunkt
+pocházet; stammen
+předpis; die Studienvorschrift
+obor; der Studienzweig
+rozdělit; teilen
+cvičení; die Übung
+obsahovat; umfassen
+nezávislý; unabhängig
+bezprostředně; unmittelbar
+podnik; das Unternehmen
+výuka; der Unterricht
+podporovat; unterstützen
+zodpovědný; verantwortlich
+spojit; verbinden
+disponovat; verfügen
+doprava; der Verkehr
+udělit; verleihen
+obhájit; verteidigen
+obhajoba; die Verteidigung
+prohloubit; vertiefen
+zastupovat; vertreten
+předloha; die Vorgabe
+přednáška; die Vorlesung
+stát v čele; vorstehen
+další vzdělávání; die Weiterbildung
+věda; die Wissenschaft
+vědecký; wissenschaftlich
+vyhotovení; die Abfassung
+dohoda; das Abkommen
+závěrečná zkouška; der Abschluss
+nemít dokončenou školu; keinen Abschluss haben
+uznání; die Anerkennung
+povinná účast; die Anwesenheitspflicht
+systém; der Aufbau
+zahraniční; ausländisch
+vyplatit se; auszahlen
+snažit se; sich bemühen
+podnikový ekonom; der Betriebswirt
+vztah; die Beziehung
+trvat; dauern
+jednota; die Einheit
+vyvíjet se; entwickeln
+zkušenost; die Erfahrung
+ulehčit; erleichtern
+následující; folgend
+vést; führen
+společenství; die Gemeinschaft
+členit; gliedern
+tvrdý; hart
+výzva; die Herausforderung
+charakterizovat; kennzeichnen
+sebrat síly; Kräftesammeln
+přednáška; die Lehrveranstaltung
+soused; der Nachbar
+dokázat; nachweisen
+pravidlo; die Regel
+zpravidla; in der Regel
+tahat se; sich reißen
+sbírat; sammeln
+zdát se; scheinen
+školství; das Schulwesen
+samoplátce; der Selbstzahler
+dělat si starosti; sich sorgen
+konat se; stattfinden
+daňové právo; das Steuerrecht
+nadace; die Stiftung
+nezbytný; unerlässlich
+podepsat; unterzeichnen
+udělit; vergeben
+minulost; die Vergangenheit
+rozmanitý; vielfältig
+ekonom; der Volkswirt
+předpoklad; die Voraussetzung
+bez přednášek; vorlesungsfrei
+zkouškové období; vorlesungsfreie Zeit
+vítaný; willkommen
+hospodářství; die Wirtschaft
+patřit; zählen zu
+čekat; zukommen
+budoucí; zukünftig
+povolit; zulassen
+dodatečný; zusätzlich
+průběh; der Ablauf
+odvodit; ableiten
+odpadní voda; das Abwasser
+všeobecný; allgemein
+strčit; anstoßen
+připít si; anstoßen
+použití; die Anwendung
+stavba; der Aufbau
+odhalit; aufdecken
+vytyčení; die Aufstellung
+vyslovit; aufwerfen
+rozpínání; die Ausdehnung
+východisko; der Ausweg
+znamenat; bedeuten
+podmínka; die Bedingung
+ohrožovat; bedrohen
+obtěžování; die Belästigung
+popsat; beschreiben
+součást; der Bestandteil
+pohyb; die Bewegung
+věc; das Ding
+hnojivo; das Düngemittel
+provést; durchführen
+vlastnost; die Eigenschaft
+zásah; der Eingriff
+úzký; eng
+zařízení; die Einrichtung
+obsahovat; enthalten
+navrhnout; entwerfen
+vyvíjet; entwickeln
+vývoj; die Entwicklung
+odebrat; entziehen
+výsledek; das Ergebnis
+rozpoznat; erkennen
+poznatek; die Erkenntnis
+ulehčit; erleichtern
+umožnit; ermöglichen
+vymoženost; die Errungenschaft
+jev; die Erscheinung
+oteplení; die Erwärmung
+prokázat; erweisen
+obor; die Fachrichtung
+zachytit; festhalten
+zjistit; feststellen
+vést k; führen zu
+nebezpečný; gefährlich
+předmět; der Gegenstand
+nabitý; geladen
+dodaný; geliefert
+zvuk; das Geräusch
+zákonitost; die Gesetzmäßigkeit
+hledisko; der Gesichtspunkt
+váha; das Gewicht
+tvrdý; hart
+znalost; die Kenntnis
+jádro; der Kern
+tělo; der Körper
+síla; die Kraft
+situace; die Lage
+krajina; die Landschaft
+hluk; der Lärm
+životní prostor; der Lebensraum
+nauka; die Lehre
+vést; leiten
+svítivost; die Leuchtkraft
+světlo; das Licht
+měřit; messen
+příroda; die Natur
+přírodní zákon; das Naturgesetz
+nazvat; nennen
+užitečný; nutzbar
+řídit; regeln
+zvuk; der Schall
+bod tání; der Schmelzpunkt
+smysluplný; sinnvoll
+pečlivý; sorgfältig
+silný; stark
+látkový; stofflich
+látkové množství; die Stoffmenge
+proud; der Strom
+neživý; unbelebt
+nezbytný; unerlässlich
+rozlišovat; unterscheiden
+rozdílný; unterschiedlich
+zkoumat; untersuchen
+změna; die Veränderung
+spojení; die Verbindung
+chování; das Verhalten
+dopravní prostředek; das Verkehrsmittel
+probíhat; verlaufen
+domněnka; die Vermutung
+zásobování; die Versorgung
+pokus; der Versuch
+rozdělit; verteilen
+úplný; vollständig
+proces; der Vorgang
+předpovídat; vorhersagen
+teplo; die Wärme
+vlna; die Welle
+odrážet; wiederspiegeln
+vědění; das Wissen
+věda; die Wissenschaft
+vědec; der Wissenschaftler
+přivádět; zuführen
+odrážet; zurückwerfen
+účelný; zweckmäßig
+obor; der Zweig
+zrušit; abbrechen
+skenovat; abtasten
+přihlásit se; anmelden
+lhůta; die Abgabefrist
+odevzdat; abgeben
+odevzdáno v termínu; abgegeben fristgemäß
+odevzdáno pozdě; abgegeben nicht fristgemäß
+termín překročen; Abgabefrist überschritten
+odstavec; der Absatz
+uložit; abspeichern
+připojený; angeschlossen
+návod; die Anleitung
+příloha; der Anhang
+bez příloh; keine Anhänge
+počet; die Anzahl
+ukázat; anzeigen
+druh; die Art
+rozlišení; die Auflösung
+vyvolat; aufrufen
+vytisknout; ausdrucken
+vypadnout; ausfallen
+vypnout; ausschalten
+vyměnit; austauschen
+příkaz; der Befehl
+obsazení; die Belegung
+libovolný; beliebig
+uživatel; der Benutzer
+uživatelské jméno; der Benutzername
+oblast; der Bereich
+popsaný; beschriftet
+část; der Bestandteil
+potvrdit; bestätigen
+pohybovat; bewegen
+pohyb; die Bewegung
+hodnotit; bewerten
+ohodnocen; bewertet
+tvořit; bilden
+obrazovka; der Bildschirm
+písmeno; der Buchstabe
+zobrazit; darstellen
+data; die Daten
+soubor; die Datei
+stálý; dauerhaft
+sloužit; dienen
+přímý; direkt
+tiskárna; der Drucker
+tisknout; drucken
+stisknout; drücken
+rovina; die Ebene
+vlastní; eigen
+vložit; einfügen
+vstup; die Eingabe
+vstupní nástroje; Eingabelinstrumente
+zadat; eingeben
+vložit; einlegen
+načíst; einlesen
+použít; einsetzen
+zapnout; einschalten
+jednotlivý; einzeln
+odstranit; entfernen
+přijmout; entgegennehmen
+výsledek; das Ergebnis
+kapacita; das Fassungsvermögen
+pevný disk; die Festplatte
+tučný; fett
+plochý; flach
+pouzdro; das Gehäuse
+platit; gelten
+přístroj; das Gerät
+rychlost; die Geschwindigkeit
+členit; gliedern
+základní vybavení; die Grundausstattung
+držet; halten
+jednat se; handeln
+nosit s sebou; herumtragen
+stáhnout; herunterladen
+na výšku; hochkant
+disková jednotka; das Laufwerk
+smazat; löschen
+myš; die Maus
+jehla; die Nadel
+poslat; posten
+štěrbina; der Schlitz
+šňůra; die Schnur
+kursor; die Schreibmarke
+zálohovat; sichern
+sloupec; die Spalte
+paměť; der Speicher
+uložit; speichern
+řídící klávesa; die Steuerungstaste
+paprsek; der Strahl
+klávesa; die Taste
+klávesnice; die Tastatur
+inkoust; die Tinte
+zacházení; der Umgang
+zacházet; umgehen
+přepínací klávesa; die Umschalttaste
+bez újmy; unbeschadet
+přerušený; unterbrochen
+USBSlot; der USBSlot
+fleška; der Stick
+spojení; die Verbindung
+v souvislosti s; in Verbindung mit
+zpracovat; verarbeiten
+rozšiřovat; vertreiben
+použitelný; verwendbar
+přední strana; die Vorderseite
+proces; der Vorgang
+dále zpracovat; weiterbearbeiten
+znak; das Zeichen
+číslice; die Ziffer
+přístup; der Zugang
+přístup; der Zugriff
+zadaný; zugewiesen
+přidělit; zuweisen

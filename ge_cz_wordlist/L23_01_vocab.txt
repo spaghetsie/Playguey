@@ -1,0 +1,86 @@
+die Pflanze; rostlina
+die Umwelt; životní prostředí
+die Ameise; mravenec
+der Barsch; okoun
+begegnen; potkat koho
+bevorzugen; dávat přednost
+die Birke; bříza
+die Blaubeere; borůvka
+der Blickwinkel; zorný úhel
+die Brombeere; ostružina
+die Buche; buk
+die Eiche; dub
+das Eichhörnchen; veverka
+die Eidechse; ještěrka
+die Ente; kachna
+erkennen; poznat
+der Fang; úlovek
+das Feld; pole
+die Fichte; smrk
+die Forelle; pstruh
+fressen; žrát
+die Gämse; kamzík
+die Gans; husa
+der Hecht; štika
+die Himbeere; malina
+der Hirsch; jelen
+das Huhn; kuře
+das Kabel; kabel
+das Kalb; tele
+der Karpfen; kapr
+die Kiefer; borovice
+die Kuh; kráva
+der Lachs; losos
+der Laubbaum; listnatý strom
+der Lavandel; levandule
+der Luchs; rys
+der Marder; kuna
+die Möwe; racek
+die Mücke; komář
+neidisch; závistivý
+nirgendwo; nikde
+pflücken; trhat
+der Pilz; houba
+der Regenwurm; žížala
+das Reh; srnec
+riechen; cítit
+das Rippchen; žebírko
+die Sonnenblume; slunečnice
+die Taube; holub
+der Weizen; pšenice
+die Wildbahn; příroda
+das Wildschwein; divoké prase
+wüten; řádit
+der Adler; orel
+das Alpen-Edelweiss; protěž alpská
+die Amsel; kos
+aus/sterben; vymřít
+bedrohen; ohrožovat
+bewaldet; zalesněný
+endemisch; endemický
+die Fliege; moucha
+der Fuchs; liška
+das Futter; krmivo
+giftig; jedovatý
+der Hase; zajíc
+das Insekt; hmyz
+die Kreuzotter; zmije
+die Meise; sýkorka
+die Nahrung; výživa
+das Schwein; prase
+der Seehund; tuleň
+der Star; špaček
+die Tanne; jedle
+vor/kommen; vyskytovat se
+wachsen; růst
+die Wiese; louka
+wild lebend; volně žijící
+allergisch; alergický
+ekeln sich; štítit se
+der Elefant; slon
+das Fell; srst
+die Giraffe; žirafa
+die Kralle; dráp
+das Krokodil; krokodýl
+der Pinguin; tučnák
+das Spinnennetz; pavučina

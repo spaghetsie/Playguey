@@ -1,0 +1,374 @@
+das Abwasser; odpadní voda
+allgemein; obecný
+anstossen; narazit
+abschliessen; zakončit
+der Abschluss; zakončení
+Abschluss; závěrečný
+die Absicht; úmysl
+der Abschnitt; úsek
+die Anlage; zařízení
+anbieten; nabídnout
+anschliessen; navázat
+anwenden; aplikovat
+die Anwendung; aplikace
+angewandt; aplikovaný
+aufbauen; stavět
+aufheben; zrušit
+Aufnahmeprüfungen; přijímací zkoušky
+ausbilden; vzdělávat
+die Ausbildung; vzdělání
+ausgerichtet; zaměřený
+die Ausnützung; využití
+das Bauwesen; stavebnictví
+sich beschäftigen; zabývat se
+beistehen; pomáhat
+der Beschleuniger; urychlovač
+besitzen; mít
+bestehen; být
+bestehen aus; skládat se
+bestehend; stávající
+der Bestandteil; součást
+bewerten; hodnotit
+die Bewertung; hodnocení
+die Bezeichnung; název
+bieten; poskytovat
+durchführen; provést
+einführen; zavést
+die Einführung; zavedení
+eng; úzký
+einzigartig; jedinečný
+entsprechend; odpovídající
+entstehen; vzniknout
+die Entstehung; vznik
+erfolgreich; úspěšný
+die Erlangung; získání
+ergänzen; doplnit
+ermöglichen; umožnit
+erwerben; získat
+das Fach; předmět
+Fach; odborný
+das Fachgebiet; obor
+die Fachrichtung; obor
+forschen; zkoumat
+die Forschung; výzkum
+der Forscher; výzkumník
+friedlich; mírový
+die Gebühr; poplatek
+Gebühren erheben; vybírat poplatky
+gegenwärtig; současný
+gestuft; stupňovaný
+gestufte Studienstruktur; strukturované studium
+gewöhnlich; obvyklý
+die Gleichung; rovnice
+gründen; založit
+die Gründung; založení
+der Grund; základ
+Grund; základní
+die Grundlage; základ
+grundlegend; základní
+hochleistungsfähig; vysoce výkonný
+der Kaiser; císař
+die Kenntnis; znalost
+Kenntnisse erwerben; získávat znalosti
+der Kern; jádro
+die Lehre; nauka
+lehren; učit
+lernen; učit se
+leiten; vést
+die Leitung; vedení
+die Leistung; výkon
+der Maschinenbau; strojírenství
+die Neuerung; novota
+ordentlich; řádný
+Prüfung ablegen; složit zkoušku
+der Rat; rada
+sich vertraut machen; seznámit se
+der Schein; zápočet
+der Schwerpunkt; těžiště
+stammen; pocházet
+die Studienvorschrift; předpis
+der Studienzweig; obor
+einteilen; rozdělit
+die Übung; cvičení
+umfassen; obsahovat
+unabhängig; nezávislý
+unmittelbar; bezprostředně
+das Unternehmen; podnik
+der Unterricht; vyučování
+unterstützen; podporovat
+verantwortlich; zodpovědný
+verbinden; spojit
+verfügen; disponovat
+der Verkehr; doprava
+verleihen; propůjčit
+verteidigen; obhájit
+die Verteidigung; obhajoba
+vertiefen; prohloubit
+vertreten; zastupovat
+die Vorgabe; předloha
+die Vorlesung; přednáška
+vorstehen; stát v čele
+die Weiterbildung; další vzdělávání
+die Wissenschaft; věda
+wissenschaftlich; vědecký
+der Lehrstuhl; katedra
+der Lehrstuhl für Mathematik; KM
+der Lehrstuhl für Physik; KF
+der Lehrstuhl für Feststoffphysik; KIPL
+der Lehrstuhl für Gesellschaftswissenschaften und Sprachen; KHVJ
+der Lehrstuhl für Physikalische Elektronik; KFE
+der Lehrstuhl für Materialien; KMAT
+der Lehrstuhl für Kernchemie; KJCH
+der Lehrstuhl für Dosimetrie und Anwendung Ionisierender Strahlung; KDAIZ
+der Lehrstuhl für Kernreaktoren; KJR
+der Lehrstuhl für SoftwareEngineering; KSI
+die Abfassung; napsání
+das Abkommen; dohoda
+keinen Abschluss haben; nemít dokončenou školu
+die Anerkennung; uznání
+die Anwesenheitspflicht; povinná účast
+der Aufbau; struktura
+ausländisch; zahraniční
+sich auszahlen; vyplatit se
+sich bemühen; snažit se
+der Betriebswirt; podnikový ekonom
+die Beziehung; vztah
+dauern; trvat
+die Einheit; jednota
+sich entwickeln; rozvíjet se
+die Erfahrung; zkušenost
+erleichtern; ulehčit
+folgend; následující
+führen; vést
+die Gemeinschaft; společenství
+gliedern; členit
+hart; tvrdý
+die Herausforderung; výzva
+kennzeichnen; charakterizovat
+das Kräftesammeln; sebrat síly
+die Lehrveranstaltung; přednáška
+der Nachbar; soused
+nachweisen; dokázat
+die Regel; pravidlo
+in der Regel; zpravidla
+sich reißen; tahat se
+sammeln; sbírat
+scheinen; zdát se
+das Schulwesen; školství
+der Selbstzahler; samoplátce
+sich sorgen; dělat si starosti
+stattfinden; konat se
+das Steuerrecht; daňové právo
+die Stiftung; nadace
+unerlässlich; nezbytný
+unterzeichnen; podepsat
+vergeben; udělit
+die Vergangenheit; minulost
+vielfältig; rozmanitý
+der Volkswirt; ekonom
+die Voraussetzung; předpoklad
+vorlesungsfrei; bez přednášek
+die vorlesungsfreie Zeit; zkouškové období
+willkommen; vítaný
+die Wirtschaft; hospodářství
+zählen zu; patřit
+zukommen; čekat
+zukünftig; budoucí
+zulassen; povolit
+zusätzlich; dodatečný
+der Ablauf; průběh
+ableiten; odvodit
+die Anwendung; použití
+aufdecken; odhalit
+die Aufstellung; stanovení
+aufwerfen; vyslovit
+die Ausdehnung; rozloha
+der Ausweg; východisko
+bedeuten; znamenat
+die Bedingung; podmínka
+bedrohen; ohrožovat
+die Belästigung; obtěžování
+beschreiben; popsat
+die Bewegung; pohyb
+das Ding; věc
+das Düngemittel; hnojivo
+die Eigenschaft; vlastnost
+der Eingriff; zásah
+die Einrichtung; zařízení
+enthalten; obsahovat
+entwerfen; navrhnout
+entwickeln; rozvíjet
+die Entwicklung; vývoj
+entziehen; odebrat
+das Ergebnis; výsledek
+erkennen; rozpoznat
+die Erkenntnis; poznatek
+die Errungenschaft; výdobytek
+die Erscheinung; jev
+die Erwärmung; oteplení
+sich erweisen; dokázat se
+festhalten; zachytit
+führen zu; vést k
+gefährlich; nebezpečný
+der Gegenstand; předmět
+geladen; nabitý
+geliefert; dodaný
+das Geräusch; zvuk
+die Gesetzmäßigkeit; zákonitost
+der Gesichtspunkt; hledisko
+das Gewicht; váha
+die Kenntnis; znalost
+der Körper; tělo
+die Kraft; síla
+die Lage; situace
+die Landschaft; krajina
+der Lärm; hluk
+der Lebensraum; životní prostor
+die Leuchtkraft; svítivost
+das Licht; světlo
+messen; měřit
+die Natur; příroda
+das Naturgesetz; přírodní zákon
+nennen; nazvat
+nutzbar; užitečný
+regeln; řídit
+der Schall; zvuk
+der Schmelzpunkt; bod tání
+sinnvoll; smysluplný
+sorgfältig; pečlivý
+stark; silný
+stofflich; látkový
+die Stoffmenge; látkové množství
+der Strom; proud
+unbelebt; neživý
+unterscheiden; rozlišovat
+unterschiedlich; rozdílný
+untersuchen; zkoumat
+die Veränderung; změna
+die Verbindung; spojení
+das Verhalten; chování
+das Verkehrsmittel; dopravní prostředek
+verlaufen; probíhat
+die Vermutung; domněnka
+die Versorgung; zásobování
+der Versuch; pokus
+verteilen; rozdělit
+vollständig; úplný
+vorhersagen; předpovídat
+die Welle; vlna
+wiederspiegeln; odrážet
+das Wissen; vědění
+der Wissenschaftler; vědec
+zuführen; přivádět
+zurückwerfen; odrážet
+zweckmäßig; účelný
+der Zweig; obor
+abbrechen; zrušit
+abtasten; skenovat
+sich anmelden; přihlásit se
+die Abgabefrist; lhůta
+abgeben; odevzdat
+fristgemäß abgegeben; odevzdáno v termínu
+nicht fristgemäß abgegeben; odevzdáno pozdě
+Abgabefrist überschritten; termín překročen
+der Absatz; odstavec
+abspeichern; uložit
+angeschlossen; připojený
+die Anleitung; návod
+der Anhang; příloha
+keine Anhänge; bez příloh
+die Anzahl; počet
+anzeigen; ukázat
+die Art; druh
+die Auflösung; rozlišení
+aufrufen; vyvolat
+ausdrucken; vytisknout
+ausfallen; vypadnout
+ausschalten; vypnout
+austauschen; vyměnit
+der Befehl; příkaz
+die Belegung; obsazení
+beliebig; libovolný
+der Benutzer; uživatel
+der Benutzername; uživatelské jméno
+der Bereich; oblast
+beschriftet; popsaný
+bestätigen; potvrdit
+bewegen; pohybovat
+die Bewegung; pohyb
+bewerten; hodnotit
+bewertet; ohodnocen
+bilden; tvořit
+der Bildschirm; obrazovka
+der Buchstabe; písmeno
+darstellen; zobrazit
+die Daten; data
+die Datei; soubor
+dauerhaft; stálý
+dienen; sloužit
+direkt; přímý
+der Drucker; tiskárna
+drücken; tisknout
+die Ebene; rovina
+eigen; vlastní
+einfügen; vložit
+die Eingabe; vstup
+die Eingabelinstrumente; vstupní nástroje
+eingeben; zadat
+einlegen; vložit
+einlesen; načíst
+einsetzen; nasadit
+einschalten; zapnout
+einzeln; jednotlivý
+entfernen; odstranit
+entgegennehmen; přijmout
+das Fassungsvermögen; kapacita
+die Festplatte; pevný disk
+fett; tučný
+flach; plochý
+das Gehäuse; pouzdro
+gelten; platit
+das Gerät; přístroj
+die Geschwindigkeit; rychlost
+sich gliedern; členit se
+die Grundausstattung; základní vybavení
+handeln; jednat
+herumtragen; nosit s sebou
+herunterladen; stáhnout
+hochkant; na výšku
+das Laufwerk; disková jednotka
+löschen; smazat
+die Maus; myš
+die Nadel; jehla
+posten; poslat
+der Schlitz; štěrbina
+die Schnur; šňůra
+die Schreibmarke; kursor
+sichern; zálohovat
+die Spalte; sloupec
+der Speicher; paměť
+speichern; uložit
+die Steuerungstaste; řídící klávesa
+der Strahl; paprsek
+die Taste; klávesa
+die Tastatur; klávesnice
+die Tinte; inkoust
+der Umgang; zacházení
+umgehen; zacházet
+die Umschalttaste; přepínací klávesa
+unbeschadet; bez újmy
+unterbrochen; přerušený
+der USBSlot; mechanika
+der USBStick; fleška
+in Verbindung mit; v souvislosti s
+verarbeiten; zpracovat
+vertreiben; rozšiřovat
+verwendbar; použitelný
+die Vorderseite; přední strana
+weiterbearbeiten; dále zpracovat
+das Zeichen; znak
+die Ziffer; číslice
+der Zugang; přístup
+der Zugriff; přístup
+zugewiesen; zadáno
+zuweisen; přidělit
